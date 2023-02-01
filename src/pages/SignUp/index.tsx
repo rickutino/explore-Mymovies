@@ -12,7 +12,7 @@ export function SignUp() {
       <BackgroundIMG />
 
       <Form>
-        <h1>My Notes</h1>
+        <h1>My movies</h1>
         <p>Application to track everything you watch.</p>
 
         <h2>Create your account here.</h2>
