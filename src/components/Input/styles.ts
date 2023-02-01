@@ -13,7 +13,6 @@ export const Container = styled.div`
   background-color: ${({ theme }: ThemeTypeProps) => theme.COLORS.BLACK_800};
   color: ${({ theme }: ThemeTypeProps) => theme.COLORS.GRAY_200};
 
-  margin-bottom: 8px;
   border-radius: 10px;
   
   > input {
